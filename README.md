@@ -1,3 +1,5 @@
+#Currently EUAC in OpenSDS project is on hold. The corresponding committee will be created under soda foundation soon.
+
 # EUAC
 OpenSDS End User Advisory Committee
 
